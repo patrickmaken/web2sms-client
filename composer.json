@@ -1,0 +1,21 @@
+{
+    "name": "patrickmaken/web2sms-client",
+    "description": "Bibliothèque PHP permettant d'envoyer des SMS.",
+    "authors": [
+        {
+            "name": "Patrick Madeng",
+            "email": "patrickmaken@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "guzzlehttp/guzzle": "^6.5"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Patrickmaken\\Web2Sms\\": "src/"
+        }
+    }
+}
