@@ -1,6 +1,6 @@
 # Web 2 SMS Client
 
-PHP library for sending SMS using [web2sms237 API](https://web2sms237.com "https://web2sms237.com").
+PHP library for sending SMS using web2sms237 API. Visit [https://web2sms237.com](https://web2sms237.com) to create your account.
 
 ## Requirement
 
@@ -14,7 +14,7 @@ composer require patrickmaken/web2sms-client
 
 ## Usage
 
-Before any operation, you must initialize the client by giving it your api_user_id and api_user_secret. These values are available in your profile on the platform [https://web2sms237.com](https://web2sms237.com "https://web2sms237.com").
+Before any operation, you must initialize the client by giving it your api_user_id and api_user_secret. These values are available in the "API Deleloppers menu" of your customer panel on the platform [https://web2sms237.com/developpers](https://web2sms237.com/developpers).
 
 ### Send SMS
 
@@ -69,3 +69,7 @@ array(2) {
   string(5) "MyApp"
 }
 ```
+
+## contact
++ Email: [support@web2sms237.com](mailto:support@web2sms237.com)
++ Telephone / Whatsapp: [+237674352969](https://wa.me/237697275587)
