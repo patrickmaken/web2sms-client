@@ -70,6 +70,6 @@ array(2) {
 }
 ```
 
-## contact
+## contacts
 + Email: [support@web2sms237.com](mailto:support@web2sms237.com)
 + Telephone / Whatsapp: [+237674352969](https://wa.me/237697275587)
