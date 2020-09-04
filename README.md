@@ -1,6 +1,6 @@
 # Web 2 SMS Client
 
-PHP library for sending SMS in Cameroon using web2sms237 API. Visit [https://web2sms237.com](https://web2sms237.com "Bulk SMS Cameroon") to create your account.
+PHP library for sending SMS in Cameroon using web2sms237 API. Visit [https://web2sms237.com](https://web2sms237.com "SMS Pro & Bulk SMS Cameroon") to create your account.
 
 ## Requirement
 
