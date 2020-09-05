@@ -72,4 +72,4 @@ array(2) {
 
 ## contacts
 + Email: [support@web2sms237.com](mailto:support@web2sms237.com)
-+ Telephone / Whatsapp: [+237 674 35 29 69](https://wa.me/237697275587)
++ Telephone / Whatsapp: [+237 674 35 29 69](https://wa.me/237674352969)
