@@ -14,7 +14,7 @@ composer require patrickmaken/web2sms-client
 
 ## Usage
 
-Before any operation, you must initialize the client by giving it your api_user_id and api_user_secret. These values are available in the "API Deleloppers menu" of your customer panel on the platform [https://web2sms237.com/developpers](https://web2sms237.com/developpers).
+Before any operation, you must initialize the client by giving it your api_user_id and api_user_secret. These values are available in the "API Deleloppers menu" of your customer panel on the platform [https://www.web2sms237.com/en/webapp/developers](https://www.web2sms237.com/en/webapp/developers).
 
 ### Send SMS
 
