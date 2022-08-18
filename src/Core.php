@@ -142,7 +142,7 @@ class Core
     {
         $options = [
             'timeout'  => 20.0,
-            'verify' => dirname(__FILE__, 2) . '/cacert.pem',
+            'verify' => false,
         ];
         foreach ($params as $key => $value) $options[$key] = $value;
 
